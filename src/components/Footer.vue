@@ -1,0 +1,5 @@
+<template>
+  <footer class="bg-primary-600">
+    <p class="py-8 mx-8 text-neutral-white text-sm text-end">Made with ❤ by Aléssia Vinnik</p>
+  </footer>
+</template>
