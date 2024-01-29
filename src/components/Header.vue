@@ -25,7 +25,7 @@ export default defineComponent({
     <nav class="flex items-center justify-between w-full">
       <div class="flex justify-between items-center w-fit">
         <router-link to="/" class="flex items-center focus-visible:ring-2 outline-none focus-visible:ring-primary-200 focus-visible:rounded-md">
-          <img src="../../logo.svg" class="border-primary-200 border-1.8 rounded-full" alt="Logo Storyland" />
+          <img src="../../favicon.svg" class="border-primary-200 border-1.8 rounded-full" alt="Logo Storyland" />
           <div class="ml-4 font-semibold text-3xl text-neutral-white">Storyland</div>
         </router-link>
         <nav class="grid grid-cols-2 gap-10 text-lg ml-20">
